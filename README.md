@@ -1,2 +1,2 @@
 # ForumXConsoleScraper
-Lokalny skraper forum x
+Lokalny skraper konsolowy forum x
